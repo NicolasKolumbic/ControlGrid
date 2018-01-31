@@ -1,0 +1,9 @@
+withAjax
+bindAngularDirective
+disableDeepWatchers
+rowClickEvent
+bootstrapIntegration
+overrideBootstrapOptions
+withColumnFilter
+withColReorder
+withLightColumnFilter
